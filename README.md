@@ -4,8 +4,8 @@
 Eu sou um entusiasta da tecnologia, mergulhando no universo da engenharia de software. 🚀 Estou sempre com um terminal aberto, explorando o vasto mundo do código com um commit de cada vez!
 
 ## O que estou fazendo? 🛠️
-  Atualmente, estou me aprimorando em **Desenvolvimento Web** com **JavaScript**, **HTML/CSS** no Front End e **C#**, **SQL/NoSQL** no back End, utilizando **.NET**, **Angular** e **SQL Server** para aprimorar o desenvolvimento.
-  Paralelamente, estou explorando o universo do **Python**, usufruindo da sua simplicidade e poder para resolução de problemas de algoritmos e estrutura de dados.
+  Atualmente, estou me aprimorando em **Desenvolvimento Web** com **JavaScript**, **HTML/CSS** e **React** no Front End e **C#**, **SQL/NoSQL** no back End, utilizando **.NET** e **SQL Server** para aprimorar o desenvolvimento.
+  Paralelamente, estou explorando o universo do **Python**, usufruindo da sua simplicidade e poder para resolução de problemas e o tradicional **C** para estudo de estruturas de dados.
 
 🌱 No momento, estou cursando **Bacharelado em Engenharia de Software** na **Universidade de Brasília - UnB**, onde cada dia é uma nova descoberta e um passo a mais na minha missão de me tornar um desenvolvedor completo. Estou super animado para adicionar mais linguagens de programação ao meu arsenal.
 
