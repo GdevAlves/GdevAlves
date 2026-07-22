@@ -52,13 +52,13 @@ Obrigado por passar por aqui! Não se esqueça de voltar de vez em quando para v
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/CODEbugging3000/">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEbugging3000&layout=compact&theme=dark"/>
+      <a href="https://github.com/GdevAlves/">
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GdevAlves&layout=compact&theme=dark"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/CODEbugging3000/">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CODEbugging3000&show_icons=true&theme=dark"/>
+      <a href="https://github.com/GdevAlves/">
+        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=GdevAlves&show_icons=true&theme=dark"/>
       </a>
     </td>
   </tr>
