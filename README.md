@@ -1,59 +1,61 @@
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<h3>Gabriel Alves</h3>
+
+<p>
+Software Engineering student at <strong><a href="https://www.unb.br/">UnB</a></strong><br>
+Backend Developer at <strong><a href="https://novaweb.mobi/">
+NOVA WEB </a></strong> — C# &amp; .NET
+</p>
+
+<p>
+🔭 <strong>Currently working with:</strong><br>
+C#, .NET, SQL, Kubernetes, Azure
+</p>
+
+<p>
+🌱 <strong>Currently learning:</strong><br>
+Clean Architecture, System Design,
+Graph Algorithms, AI Tools,
+Cloud Concepts
+</p>
+
+<p>
+📫 Open to project ideas &amp; networking
+  <a href="https://www.linkedin.com/in/gabriel-alves-3000dev/">
+    <img width="6%" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+</td>
+
+<td width="45%" align="center">
+
+<a href="https://github.com/GdevAlves">
+<img src="octocat.png" width="350">
+</a>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
+
+</td>
+</tr>
+</table>
+
+## STACKS
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,rider,vscode,linux,js,ts,html,css,nodejs,figma,angular,react,docker,git,github,githubactions,jest,mysql,postgres,postman,py,redis,prisma,express,kubernetes,azure" />
+  </a>
+</p>
+
 ![Metrics](/github-metrics.svg)
-
-# Olá, Mundo! Sou Gabriel Alves;
-
-## Quem sou eu? 🤔
-Eu sou um entusiasta da tecnologia, mergulhando no universo da engenharia de software. 🚀 Estou sempre com um terminal aberto, explorando o vasto mundo do código com um commit de cada vez!
-
-## O que estou fazendo? 🛠️
-  Atualmente, estou me aprimorando em **Desenvolvimento Web** com **JavaScript**, **HTML/CSS** e **React** no Front End e **C#**, **SQL/NoSQL** no back End, utilizando **.NET** e **SQL Server** para aprimorar o desenvolvimento.
-  Paralelamente, estou explorando o universo do **Python**, usufruindo da sua simplicidade e poder para resolução de problemas e o tradicional **C** para estudo de estruturas de dados.
-
-🌱 No momento, estou cursando **Bacharelado em Engenharia de Software** na **Universidade de Brasília - UnB**, onde cada dia é uma nova descoberta e um passo a mais na minha missão de me tornar um desenvolvedor completo. Estou super animado para adicionar mais linguagens de programação ao meu arsenal.
-
-## Meus objetivos 🎯
-- Dominar o **Desenvolvimento Web**.
-- Explorar as diversas áreas de aplicação do **.NET**.
-- Contribuir para projetos open source e deixar minha marca na comunidade.
-- Aprender algo novo todos os dias e compartilhar esse conhecimento com o mundo.
-
-## Vamos nos conectar? 🌍
-Se você está interessado em trocar ideias sobre tecnologia, programação, ou simplesmente quer bater um papo, não hesite em me contatar. Estou sempre aberto a novas conexões e colaborações.
-
-### ☎ Contatos:
-<div> 
-  <a href="https://instagram.com/gabriel._.alves61" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:g.alvesdearaujo06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  <a href="https://stackoverflow.com/users/23182994/gabriel-alves-de-araujo" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-alves-3000dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-Obrigado por passar por aqui! Não se esqueça de voltar de vez em quando para ver as atualizações. Vamos codificar juntos! 💻✨
-
-<hr backgroud-color="purple"></hr>
-
-## 👨🏽‍💻 linguagens:
-  
-<div align="center">
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-</div>
-
-### 🐱‍🚀frameworks:
-<div align="center">
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
-</div>
-          
-   <br><br>
-   
 <table align="center">
   <tr>
-<img src="https://raw.githubusercontent.com/GdevAlves/GdevAlves/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/GdevAlves/GdevAlves/output/snake.svg" alt="Snake animation" />
   </tr>
 </table>
