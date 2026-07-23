@@ -28,6 +28,7 @@ Cloud Concepts
     <img width="6%" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
 
 </td>
 
@@ -36,10 +37,6 @@ Cloud Concepts
 <a href="https://github.com/GdevAlves">
 <img src="octocat.png" width="350">
 </a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
 
 </td>
 </tr>
