@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/GdevAlves?template=classic&isocalendar=1&lines=1&introduction=1&steam=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&introduction=false&introduction.title=true&steam=false&steam.sections=player%2C%20most-played%2C%20recently-played&steam.user=%2076561199261408273&steam.games.limit=1&steam.recent.games.limit=1&steam.achievements.limit=2&steam.playtime.threshold=2&config.timezone=America%2FSao_Paulo&config.display=large)
+![Metrics](/github-metrics.svg)
 
 # Olá, Mundo! Sou Gabriel Alves;
 
