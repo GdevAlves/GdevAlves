@@ -51,17 +51,9 @@ Obrigado por passar por aqui! Não se esqueça de voltar de vez em quando para v
 </div>
           
    <br><br>
+   
 <table align="center">
   <tr>
-    <td>
-      <a href="https://github.com/GdevAlves/">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GdevAlves&layout=compact&theme=dark"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/GdevAlves/">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=GdevAlves&show_icons=true&theme=dark"/>
-      </a>
-    </td>
+<img src="https://raw.githubusercontent.com/GdevAlves/GdevAlves/output/snake.svg" alt="Snake animation" />
   </tr>
 </table>
